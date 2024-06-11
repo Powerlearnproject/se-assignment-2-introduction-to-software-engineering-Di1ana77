@@ -7,11 +7,13 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
-
-What is software engineering, and how does it differ from traditional programming?
+Software engineering is a systematic approach to the development, operation, and maintenance of software. It involves applying engineering principles and practices to software development, aiming to create reliable, scalable, and maintainable software systems.
+What is software engineering, and how does it differ from traditional programming? 
+Unlike traditional programming, which focuses primarily on writing code, software engineering encompasses the entire software development process, including requirements analysis, design, implementation, testing, deployment, and maintenance.
 Software Development Life Cycle (SDLC):
-
+The Software Development Life Cycle (SDLC) is a framework that outlines the phases involved in developing software. 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
